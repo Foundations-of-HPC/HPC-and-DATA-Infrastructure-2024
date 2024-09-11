@@ -17,7 +17,7 @@ Tutor:
 
 ------
 
-[University timetable] ("https://orari.units.it/agendaweb/index.php?view=easycourse&form-type=corso&include=corso&txtcurr=&anno=2024&scuola=DipartimentodiMatematicaeGeoscienze&corso=SM36&anno2%5B%5D=SM36%2B1%2B%7C2&anno2%5B%5D=SM36%2B2%2B%7C2&anno2%5B%5D=SM36%2B3%2B%7C2&visualizzazione_orario=cal&date=23-09-2024&periodo_didattico=&_lang=it&list=1&week_grid_type=-1&ar_codes_=EC409092%7CEC409101%7CEC409095%7CEC409097%7CEC409093%7CEC409087LAB%7CEC409087LEZ%7CEC409099%7CEC409098%7CEC409094%7CEC409106%7CEC409107%7CEC409103%7CEC409109%7CEC409104&ar_select_=false%7Cfalse%7Cfalse%7Cfalse%7Cfalse%7Cfalse%7Cfalse%7Cfalse%7Cfalse%7Cfalse%7Ctrue%7Cfalse%7Cfalse%7Cfalse%7Cfalse&col_cells=0&empty_box=0&only_grid=0&highlighted_date=0&all_events=0&faculty_group=0#") 
+[University timetable]( https://orari.units.it/agendaweb/index.php?view=easycourse&form-type=corso&include=corso&txtcurr=&anno=2024&scuola=DipartimentodiMatematicaeGeoscienze&corso=SM36&anno2%5B%5D=SM36%2B1%2B%7C2&anno2%5B%5D=SM36%2B2%2B%7C2&anno2%5B%5D=SM36%2B3%2B%7C2&visualizzazione_orario=cal&date=23-09-2024&periodo_didattico=&_lang=it&list=1&week_grid_type=-1&ar_codes_=EC409092%7CEC409101%7CEC409095%7CEC409097%7CEC409093%7CEC409087LAB%7CEC409087LEZ%7CEC409099%7CEC409098%7CEC409094%7CEC409106%7CEC409107%7CEC409103%7CEC409109%7CEC409104&ar_select_=false%7Cfalse%7Cfalse%7Cfalse%7Cfalse%7Cfalse%7Cfalse%7Cfalse%7Cfalse%7Cfalse%7Ctrue%7Cfalse%7Cfalse%7Cfalse%7Cfalse&col_cells=0&empty_box=0&only_grid=0&highlighted_date=0&all_events=0&faculty_group=0# ) 
 
 ## Calendar and program
 
