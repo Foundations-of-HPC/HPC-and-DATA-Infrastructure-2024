@@ -56,3 +56,20 @@ Tutor:
 ## Support for ORFEO and docs
 
 All tutorials will require the use of ORFEO. You can access the official documentation [here](https://orfeo-doc.areasciencepark.it/).
+
+## Get access
+
+```
+
+if (alreadyHaveAccountOnOrfeo) {
+    if (canLoginSuccessfully) {
+        Enjoy();
+    } else {
+        openTicket();
+    }
+} else {
+    createSSHKey();
+    fillOnlineForm();
+}
+```
+
