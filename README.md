@@ -23,11 +23,11 @@ Tutor:
 
 | Date        | Time       | Lecture program                                                                                                           |
 |:------------|:-----------|---------------------------------------------------------------------------------------------------------------------------|
-| Wed, Sep 25 | 9:00-11:00 | Intro to the course                                                                                                       |
-| Thu, Sep 26 | 9:00-11:00 | **Hardware for HPC**: T.C.O, Energy, CPU, GPU, memory, Top500, Green500                                                   |
-| Wed,Oct 02  | 9:00-11:00 | **HPC infrastructure and network**: HPC job scheduler, HPC software stack, Networking: topology, performance, tecnologies |
-| Thu,Oct 03  | 9:00-11:00 | **HPC storage infrastructure - 1**: Storage devices tecnologies, NAS, SAN, Raid, Performance evaluation                   |
-| Wed,Oct 09  | 9:00-11:00 | **HPC storage infrastructure - 2**: Distributed FS and Parallel FS, CEPH in detail                                        |
+| Wed, Sep 25 | 9:00-11:00 | Intro to the course : recap on HPC infrastructure                                                                         |
+| Thu, Sep 26 | 9:00-11:00 | **Recap on HPC infrastructure**                                                                                           |
+| Wed,Oct 02  | 9:00-11:00 | **Hardware for HPC**: GPU vs CPU Energy managment, green 500 etc                                                          |
+| Thu,Oct 03  | 9:00-11:00 | **HPC infrastructure and network**: HPC job scheduler, HPC software stack, Networking: topology, performance, tecnologies |
+| Wed,Oct 09  | 9:00-11:00 | **HPC storage infrastructure**: Distributed FS and Parallel FS, CEPH in detail                                        |
 | Thu,Oct 10  | 9:00-11:00 | **Tutorial 1**: Advanced SLURM usage, discover cluster Architecture, build your own module                                |
 | Wed,Oct 16  | 9:00-11:00 | **Tutorial 2**: Network benchmarking, GPU and Interconnect benchmarking (nvlink), Storage benchmarking                    |
 | Thu,Oct 17  | 9:00-11:00 | **Tutorial 3**: Energy measure (EfiMon and PAPI)                                                                          |
