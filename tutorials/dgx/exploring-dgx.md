@@ -39,10 +39,17 @@ A more advanced command is htop:
 ```
 
 
+Other commands to test 
 
 
 ## hwloc commands 
 
-## lspci commands 
 
-##nvidia-smi set of commands 
+## lspci commands to identify all the disks/network cards/gpus
+
+
+##nvidia-smi set of commands
+  nvidia nvlink
+  nvidia   
+
+##
