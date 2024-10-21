@@ -2,7 +2,7 @@
 
 With this kind of measure we wanto to assess the interconnect performance, using Infiniband netwrok and the Ethernet network. To do that we will use MPI, that with UCX is capable to exploit the RDMA capabilities offered by Infiniband switch and NIC.
 
-A detailed guide could be found [on the official orfeo docs] (https://orfeo-doc.areasciencepark.it/examples/MPI-communication/), it depict also the latency and bandwith of commmunication inside the single node, conversely in the following section we will focus on the inter-node communication.
+A detailed guide could be found (on the official orfeo docs)[https://orfeo-doc.areasciencepark.it/examples/MPI-communication/], it depict also the latency and bandwith of commmunication inside the single node, conversely in the following section we will focus on the inter-node communication.
 
 ## Download and compile
 
@@ -143,7 +143,7 @@ $ mpirun   --map-by node   -x UCX_NET_DEVICES=bond0 ./IMB-MPI1 pingpong -msglog 
     134217728            1     54438.40      2465.50
     268435456            1    108141.03      2482.27
 # All processes entering MPI_Finalize
-``**
+```**
 
 **Results**:
 The results show a latency one order of magnitude higher respect RDMA version, precisely 16.20 usec, while the peak bandwith of ~2500 MB/s is near the peak performance of the 25Gb NIC.
