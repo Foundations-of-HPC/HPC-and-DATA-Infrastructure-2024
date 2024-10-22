@@ -25,7 +25,7 @@ A set of samples that show how to train a NN model with pytorch, exploiting `ncc
 A set of tools to test the IO:
 
 - [`dd`](IO/dd.md)
-- ['IOR'](IO/IOR.md)
+- [`IOR`](IO/IOR.md)
 
 ## Network
 
