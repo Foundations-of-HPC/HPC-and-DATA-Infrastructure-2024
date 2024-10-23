@@ -1,0 +1,29 @@
+Testing /dev/nvme1n1
+2000+0 records in
+2000+0 records out
+8388608000 bytes (8.4 GB, 7.8 GiB) copied, 4.72327 s, 1.8 GB/s
+Testing /dev/nvme1n1 with direct flag
+2000+0 records in
+2000+0 records out
+8388608000 bytes (8.4 GB, 7.8 GiB) copied, 1.53383 s, 5.5 GB/s
+Build a fs of type xfs
+meta-data=/dev/nvme1n1           isize=512    agcount=14, agsize=268435455 blks
+         =                       sectsz=4096  attr=2, projid32bit=1
+         =                       crc=1        finobt=1, sparse=1, rmapbt=1
+         =                       reflink=1    bigtime=1 inobtcount=1 nrext64=1
+data     =                       bsize=4096   blocks=3750232064, imaxpct=5
+         =                       sunit=0      swidth=0 blks
+naming   =version 2              bsize=4096   ascii-ci=0, ftype=1
+log      =internal log           bsize=4096   blocks=521728, version=2
+         =                       sectsz=4096  sunit=1 blks, lazy-count=1
+realtime =none                   extsz=4096   blocks=0, rtextents=0
+Discarding blocks...Done.
+Testing /dev/nvme1n1 with xfs
+2000+0 records in
+2000+0 records out
+8388608000 bytes (8.4 GB, 7.8 GiB) copied, 1.42409 s, 5.9 GB/s
+Testing /dev/nvme1n1 with xfs and direct flag
+2000+0 records in
+2000+0 records out
+8388608000 bytes (8.4 GB, 7.8 GiB) copied, 1.54818 s, 5.4 GB/s
+/dev/nvme1n1: 4 bytes were erased at offset 0x00000000 (xfs): 58 46 53 42

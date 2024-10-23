@@ -1,0 +1,30 @@
+Testing /dev/sda
+2000+0 records in
+2000+0 records out
+8388608000 bytes (8.4 GB, 7.8 GiB) copied, 39.2652 s, 214 MB/s
+Testing /dev/sda with direct flag
+2000+0 records in
+2000+0 records out
+8388608000 bytes (8.4 GB, 7.8 GiB) copied, 31.9827 s, 262 MB/s
+Build a fs of type xfs
+meta-data=/dev/sda               isize=512    agcount=21, agsize=268435455 blks
+         =                       sectsz=4096  attr=2, projid32bit=1
+         =                       crc=1        finobt=1, sparse=1, rmapbt=1
+         =                       reflink=1    bigtime=1 inobtcount=1 nrext64=1
+data     =                       bsize=4096   blocks=5371330560, imaxpct=5
+         =                       sunit=0      swidth=0 blks
+naming   =version 2              bsize=4096   ascii-ci=0, ftype=1
+log      =internal log           bsize=4096   blocks=521728, version=2
+         =                       sectsz=4096  sunit=1 blks, lazy-count=1
+realtime =none                   extsz=4096   blocks=0, rtextents=0
+Testing /dev/sda with xfs
+2000+0 records in
+2000+0 records out
+8388608000 bytes (8.4 GB, 7.8 GiB) copied, 1.42652 s, 5.9 GB/s
+Testing /dev/sda with xfs and direct flag
+2000+0 records in
+2000+0 records out
+8388608000 bytes (8.4 GB, 7.8 GiB) copied, 32.0041 s, 262 MB/s
+/dev/sda: 4 bytes were erased at offset 0x00000000 (xfs): 58 46 53 42
+
+
