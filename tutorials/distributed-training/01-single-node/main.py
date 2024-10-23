@@ -94,7 +94,7 @@ if __name__=="__main__":
                              sampler=test_sampler, drop_last=True)
     print(len(train_loader))
     criterion = nn.CrossEntropyLoss()
-    optimizer = optim.Adam(model.parameters(), lr=0.001)
+    optimizer = optim.Adam(ddp_model.parameters(), lr=0.001)
     num_epochs = 50
     for epoch in range(num_epochs):
         train_loader = DataLoader(train_dataset, shuffle=False,
