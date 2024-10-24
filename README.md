@@ -27,14 +27,12 @@ Tutor:
 | Thu, Sep 26 | 9:00-11:00  | **Recap on HPC infrastructure: hardware**                                                                          |
 | Wed,Oct 02  | 9:00-10:00  | **Recap on HPC infrastructure: software**:                                                                         |
 | Mon,Oct 07  | 15:00-18:00 | **Dissecting DGX workstation**: Architecture/features and hands-on session                                         |
-| Wed,Oct 09  | 9:00-10:00  | **HPC storage infrastructure**: Ceph filesystem in some details                                                    |
 | Thu,Oct 10  | 9:00-11:00  | **Tutorial 1**: Advanced SLURM usage, discover cluster Architecture, build your own module, STREAM on DGX and EPYC |
 | Wed,Oct 16  | 9:00-10:00  | **Tutorial 2**: Network benchmarking, GPU and Interconnect benchmarking (nvlink)                                   |
 | Thu,Oct 17  | 9:00-11:00  | **Tutorial 3**: HPC 4 AI, multi-GPU training, multi-NODE training                                                  |
-| Wed,Oct 23  | 9:00-10:00  | **Parallel and distributed FS**                                                                                    |
-| Thu,Oct 24  | 9:00-11:00  | **Tutorial 4**: IO benchmarking, fio, iozone, ior.                                                                 |
-| Wed,Oct 30  | 9:00-10:00  | **Energy Problem for HPC and Data Infrastructure**                                                                                                              |
-| Thu,Oct 31  | 9:00-11:00  | T.B.D                                                                                                              |
+| Wed,Oct 23  | 9:00-10:00  | **HPC storage infrastructure**: Ceph filesystem in some details                                                    |
+| Thu,Oct 24  | 9:00-11:00  | **Tutorial 4**: IO benchmarking, fio, iozone, ior.                                                                                                                            |
+| Thu,Oct 31  | 9:00-11:00  | **Energy Problem for HPC and Data Infrastructure**                                                                                        |
 | Wed,Nov 06  | 9:00-11:00  | T.B.D                                                                                                              |
 | Thu,Nov 07  | 9:00-11:00  | T.B.D                                                                                                              |
 | Wed,Nov 13  | 9:00-11:00  | T.B.D                                                                                                              |
